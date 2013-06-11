@@ -7,6 +7,7 @@ gem 'cancan', '1.6.7'
 gem 'paperclip', '2.7.0'
 gem 'searcher', :git => "git://github.com/radar/searcher"
 gem 'omniauth-twitter', :git => 'https://github.com/arunagw/omniauth-twitter.git'
+gem 'omniauth-github', :git => 'https://github.com/intridea/omniauth-github.git'
 
 gem 'sqlite3'
 
